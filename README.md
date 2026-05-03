@@ -216,12 +216,3 @@ Python Producer → Kafka → Flink (NLP) → Node.js → React Dashboard
 
 ---
 
-## 📸 Note
-Take screenshots of:
-- Terminal outputs
-- Running dashboard
-
-Add them in your report or presentation under **Execution Results**.
-
-
-Just tell 👍
