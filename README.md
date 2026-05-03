@@ -1,6 +1,4 @@
 
-
-
 # 🚀 Real-Time Big Data Streaming & Sentiment Analytics Pipeline
 
 ## 📌 Overview
@@ -214,6 +212,7 @@ Python Producer → Kafka → Flink (NLP) → Node.js → React Dashboard
 ## 🚀 Future Scope
 - Cloud deployment (AWS / GCP)
 - Advanced NLP models (BERT)
-- Real-time alerting syste
+- Real-time alerting system
 
+---
 
