@@ -1,0 +1,876 @@
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"Not good at all","sentiment":"Negative"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"I love this product!","sentiment":"Positive"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"This is so frustrating","sentiment":"Negative"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"Worst app ever","sentiment":"Negative"}
+{"text":"Feeling happy today","sentiment":"Positive"}
+{"text":"This is terrible service","sentiment":"Negative"}
+{"text":"Very satisfied","sentiment":"Positive"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"Amazing experience","sentiment":"Positive"}
+{"text":"Absolutely fantastic","sentiment":"Positive"}
+{"text":"Disappointed with the quality","sentiment":"Negative"}
+{"text":"Very satisfied","sentiment":"Positive"}

@@ -1,0 +1,137 @@
+:root {
+  --bg-color: #f4f7f6;
+  --card-bg: #ffffff;
+  --text-main: #333333;
+  --text-muted: #666666;
+  --accent: #4361ee;
+  --danger: #ef233c;
+  --danger-bg: #ffe5e5;
+  --success: #2ecc71;
+  --warning: #f1c40f;
+}
+
+body {
+  margin: 0;
+  font-family: 'Inter', -apple-system, sans-serif;
+  background-color: var(--bg-color);
+  color: var(--text-main);
+}
+
+.dashboard-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.navbar {
+  display: flex;
+  gap: 20px;
+  background: var(--card-bg);
+  padding: 15px 30px;
+  border-radius: 12px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+  margin-bottom: 30px;
+  align-items: center;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: var(--text-muted);
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  transition: color 0.3s;
+}
+
+.nav-link:hover, .nav-link.active {
+  color: var(--accent);
+}
+
+.card {
+  background: var(--card-bg);
+  border-radius: 12px;
+  padding: 20px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+}
+
+.live-feed-scroll {
+  height: 420px;
+  overflow-y: auto;
+  padding-right: 6px;
+  scroll-behavior: smooth;
+  mask-image: linear-gradient(to bottom, transparent 0, black 16px, black calc(100% - 16px), transparent 100%);
+}
+
+.live-feed-scroll::-webkit-scrollbar {
+  width: 10px;
+}
+
+.live-feed-scroll::-webkit-scrollbar-track {
+  background: rgba(0, 0, 0, 0.04);
+  border-radius: 999px;
+}
+
+.live-feed-scroll::-webkit-scrollbar-thumb {
+  background: rgba(67, 97, 238, 0.28);
+  border-radius: 999px;
+  border: 2px solid transparent;
+  background-clip: padding-box;
+}
+
+.live-feed-scroll::-webkit-scrollbar-thumb:hover {
+  background: rgba(67, 97, 238, 0.42);
+  background-clip: padding-box;
+}
+
+.feed-tweet-card {
+  display: grid;
+  margin-bottom: 12px;
+  border-radius: 14px;
+  overflow: hidden;
+  border: 1px solid rgba(0, 0, 0, 0.06);
+  background: #fff;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.04);
+  transition: transform 180ms ease, box-shadow 180ms ease, border-color 180ms ease;
+}
+
+.feed-tweet-card:hover {
+  transform: translateY(-1px);
+  border-color: rgba(67, 97, 238, 0.16);
+  box-shadow: 0 12px 24px rgba(67, 97, 238, 0.08);
+}
+
+.feed-tweet-body {
+  transition: background 220ms ease;
+}
+
+.feed-tweet-card.is-fresh {
+  animation: feedCardEnter 420ms ease-out, feedCardGlow 4.8s ease-out;
+  box-shadow: 0 10px 24px rgba(67, 97, 238, 0.08);
+}
+
+@keyframes feedCardEnter {
+  0% {
+    opacity: 0;
+    transform: translateY(10px) scale(0.985);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+@keyframes feedCardGlow {
+  0% {
+    border-color: rgba(67, 97, 238, 0.28);
+    box-shadow: 0 0 0 0 rgba(67, 97, 238, 0.16);
+  }
+  30% {
+    border-color: rgba(67, 97, 238, 0.2);
+    box-shadow: 0 12px 28px rgba(67, 97, 238, 0.14);
+  }
+  100% {
+    border-color: rgba(0, 0, 0, 0.06);
+    box-shadow: 0 10px 24px rgba(67, 97, 238, 0.08);
+  }
+}
